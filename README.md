@@ -1,1 +1,3 @@
-# precious-rustic-pewter
+# Ciel Bot
+
+A complete bot, and full of features
